@@ -78,4 +78,5 @@ function convertToNumber(strArray){
         answer.push(number(strArray[i]));
     }
     return answer;
+    
 }
